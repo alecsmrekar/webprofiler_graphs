@@ -1,0 +1,12 @@
+c3:
+  remote: https://github.com/masayuki0812/c3
+  version: 0.3.0
+  license:
+    name: MIT
+    url: https://github.com/masayuki0812/c3/blob/master/LICENSE
+    gpl-compatible: true
+  js:
+    /libraries/c3/c3.min.js: {}
+  css:
+    component:
+      /libraries/c3/c3.css: {}
